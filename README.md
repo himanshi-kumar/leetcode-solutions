@@ -4,20 +4,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |

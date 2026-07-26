@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

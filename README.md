@@ -93,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

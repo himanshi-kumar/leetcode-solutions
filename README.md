@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+| [1667-fix-names-in-a-table](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Recursion
 |  |

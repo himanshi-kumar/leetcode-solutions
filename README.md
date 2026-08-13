@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Trie
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Array
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -147,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

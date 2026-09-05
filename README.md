@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0143-reorder-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

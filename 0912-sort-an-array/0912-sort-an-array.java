@@ -1,45 +1,64 @@
 class Solution {
+
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
+        mergesort(nums, 0, nums.length - 1);
         return nums;
     }
 
-    private void mergeSort(int[] arr, int left, int right) {
-        if (left >= right) return;
+    void mergesort(int[] nums, int left, int right) {
+
+        if (left >= right) {
+            return;
+        }
 
         int mid = left + (right - left) / 2;
 
-        mergeSort(arr, left, mid);
-        mergeSort(arr, mid + 1, right);
+        mergesort(nums, left, mid);
+        mergesort(nums, mid + 1, right);
 
-        merge(arr, left, mid, right);
+        merge(nums, left, mid, right);
     }
 
-    private void merge(int[] arr, int left, int mid, int right) {
+    void merge(int[] nums, int left, int mid, int right) {
+
         int[] temp = new int[right - left + 1];
 
-        int i = left;
-        int j = mid + 1;
-        int k = 0;
+        int low = left;
+        int high = mid + 1;
+        int idx = 0;
 
-        while (i <= mid && j <= right) {
-            if (arr[i] <= arr[j]) {
-                temp[k++] = arr[i++];
+        // Compare elements from both halves
+        while (low <= mid && high <= right) {
+
+            if (nums[low] <= nums[high]) {
+                temp[idx] = nums[low];
+                low++;
             } else {
-                temp[k++] = arr[j++];
+                temp[idx] = nums[high];
+                high++;
             }
+
+            idx++;
         }
 
-        while (i <= mid) {
-            temp[k++] = arr[i++];
+        // Remaining elements from left half
+        while (low <= mid) {
+            temp[idx] = nums[low];
+            low++;
+            idx++;
         }
 
-        while (j <= right) {
-            temp[k++] = arr[j++];
+        // Remaining elements from right half
+        while (high <= right) {
+            temp[idx] = nums[high];
+            high++;
+            idx++;
         }
 
-        for (int x = 0; x < temp.length; x++) {
-            arr[left + x] = temp[x];
+        // Copy sorted elements back to nums
+        for (int i = 0; i < temp.length; i++) {
+            nums[left + i] = temp[i];
         }
     }
 }
+

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

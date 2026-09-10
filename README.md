@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Array
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Quicksort
 |  |

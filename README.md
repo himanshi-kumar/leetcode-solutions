@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0078-subsets) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0048-rotate-image) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

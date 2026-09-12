@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0143-reorder-list) |

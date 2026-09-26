@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0932-beautiful-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Database
@@ -306,5 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

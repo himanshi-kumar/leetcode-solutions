@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
@@ -313,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

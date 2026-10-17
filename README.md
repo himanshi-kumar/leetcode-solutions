@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Trie
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0932-beautiful-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
 |  |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack

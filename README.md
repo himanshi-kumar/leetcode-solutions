@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0932-beautiful-array) |
+| [1046-last-stone-weight](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1598-crawler-log-folder](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |

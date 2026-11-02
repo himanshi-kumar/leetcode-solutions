@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1405-longest-happy-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1598-crawler-log-folder](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1405-longest-happy-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1405-longest-happy-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1405-longest-happy-string) |
 ## Quickselect
 |  |
 | ------- |

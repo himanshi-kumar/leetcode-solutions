@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |

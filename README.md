@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1405-longest-happy-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
 | ------- |

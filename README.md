@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1046-last-stone-weight](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1598-crawler-log-folder](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |

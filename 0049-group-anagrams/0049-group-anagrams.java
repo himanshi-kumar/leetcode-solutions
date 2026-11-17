@@ -1,50 +1,22 @@
-import java.util.*;
 
 class Solution {
-
     public List<List<String>> groupAnagrams(String[] strs) {
 
-        List<List<String>> ans = new ArrayList<>();
+        HashMap<String, List<String>> map = new HashMap<>();
 
-        int n = strs.length;
-        boolean[] visited = new boolean[n];
+        for (String s : strs) {
 
-        for (int i = 0; i < n; i++) {
+            char[] arr = s.toCharArray();
 
-            if (visited[i])
-                continue;
+            Arrays.sort(arr);
 
-            List<String> group = new ArrayList<>();
-            group.add(strs[i]);
-            visited[i] = true;
+            String key = new String(arr);
 
-            for (int j = i + 1; j < n; j++) {
+            map.putIfAbsent(key, new ArrayList<>());
 
-                if (!visited[j] && isAnagram(strs[i], strs[j])) {
-
-                    group.add(strs[j]);
-                    visited[j] = true;
-                }
-            }
-
-            ans.add(group);
+            map.get(key).add(s);
         }
 
-        return ans;
-    }
-
-    // Function to check if two strings are anagrams
-    public boolean isAnagram(String s1, String s2) {
-
-        if (s1.length() != s2.length())
-            return false;
-
-        char[] a = s1.toCharArray();
-        char[] b = s2.toCharArray();
-
-        Arrays.sort(a);
-        Arrays.sort(b);
-
-        return Arrays.equals(a, b);
+        return new ArrayList<>(map.values());
     }
 }

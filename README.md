@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [3046-split-the-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3046-split-the-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3046-split-the-array](https://github.com/himanshi-kumar/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
